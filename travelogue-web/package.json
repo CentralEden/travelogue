@@ -1,0 +1,16 @@
+{
+  "name": "travelogue-web",
+  "version": "1.0.0",
+  "description": "travelogue-web",
+  "main": "app.js",
+  "repository": "https://github.com/CentralEden/travelogue.git",
+  "author": "centraleden",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.17",
+    "webpack": "^4.20.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.2"
+  }
+}
